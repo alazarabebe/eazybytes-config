@@ -1,0 +1,11 @@
+build :
+  version: "3.0"
+
+accounts:
+  messages: "this is default profile"
+  contacts:
+    name: "Alazar"
+    email: "alazar@gmail.com"
+  phones:
+    - 2517991000
+    - 2517889900

@@ -1,0 +1,11 @@
+build :
+  version: "1.0"
+
+accounts:
+  messages: "this is Prod profile"
+  contacts:
+    name: "Alazar"
+    email: "alazar@gmail.com"
+  phones:
+    - 2517991000
+    - 2517889900

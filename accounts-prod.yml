@@ -5,7 +5,8 @@ accounts:
   messages: "this is Prod profile"
   contacts:
     name: "Alazar"
-    email: "alazar@gmail.com"
+    #email: "alazar@gmail.com"
+    email: "{cipher}b024b2bf4878c611f83e87d6f61f1076646a09b6cb273d54aa2699e8c05523058ea754caf3fabddb98d73e86f775c1f8"
   phones:
     - 2517991000
     - 2517889900
